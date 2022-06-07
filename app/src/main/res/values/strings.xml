@@ -6,4 +6,5 @@
     <string name="HomeButton">Detail</string>
     <string name="DetailButton">Home</string>
     <string name="DetailText">Detail</string>
+    <string name="button3">进入</string>
 </resources>
